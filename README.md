@@ -1,23 +1,13 @@
+# ordpunkd - (Zero-Config) Art Base Server for Ordinal Punks Fam & Frens
 
-# Awesome Typography
-
-A collection of awesome typography goodies
+ordpunkd - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections "out-of-the-box"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy "xcopy" installation for windows, linux & friends
 
 
-## Font Directory
-
-**Google Fonts** (web: [fonts.google.com](https://fonts.google.com)) - filter by serif, sans serif, display, handwriting, and monospace
+...
 
 
 
 
-## Meta
 
-**License**
 
-The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
-
-**Questions? Comments?**
-
-Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
 

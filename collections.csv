@@ -1,5 +1,12 @@
 name,               size,  background, count, url
-punks,       24x24, ,     100,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalpunks.png
-phunks,      24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
-lilphunks,   24x24, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
-doggies,     32x32, ,     101,  https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
+punks,         24x24, ,     100,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalpunks.png
+phunks,        24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
+lilphunks,     24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
+doggies,       32x32, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
+gold,          24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/gold/i/golden.png
+punkettes,     24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/punkettes/i/punkettes.png
+men,           24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/men/i/men.png
+humans,        24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/humans/i/humans.png
+orangepilled,  24x24,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/orangepill/i/orangepilled_ii.png
+sketches,      49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches.png
+neons,         49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons.png

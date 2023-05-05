@@ -156,24 +156,29 @@ or `/goldcoins/0.png?z=2`, `/goldcoins/1.png?z=2`, `/goldcoins/2.png?z=2`, ...
 ![](i/goldcoins-000001@2x.png)
 ![](i/goldcoins-000002@2x.png)
 
+or `/polaroids/0.png?z=2`, `/polaroids/1.png?z=2`, `/polaroids/2.png?z=2`, ...
+
+![](i/polaroids-000000@2x.png)
+![](i/polaroids-000001@2x.png)
+![](i/polaroids-000002@2x.png)
 
 
 
-Let's try 8x:
+Let's try 4x:
 
 
-`/sketches/0.png?z=8`, `/sketches/1.png?z=8`, `/sketches/2.png?z=8`, ...
+`/sketches/0.png?z=4`, `/sketches/1.png?z=4`, `/sketches/2.png?z=4`, ...
 
-![](i/sketches-000000@8x.png)
-![](i/sketches-000001@8x.png)
-![](i/sketches-000002@8x.png)
+![](i/sketches-000000@4x.png)
+![](i/sketches-000001@4x.png)
+![](i/sketches-000002@4x.png)
 
 
-or `/neons/0.png?z=8`, `/neons/1.png?z=8`, `/neons/2.png?z=8`, ...  And so on.
+or `/neons/0.png?z=4`, `/neons/1.png?z=4`, `/neons/2.png?z=4`, ...  And so on.
 
-![](i/neons-000000@8x.png)
-![](i/neons-000001@8x.png)
-![](i/neons-000002@8x.png)
+![](i/neons-000000@4x.png)
+![](i/neons-000001@4x.png)
+![](i/neons-000002@4x.png)
 
 
 

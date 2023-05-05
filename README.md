@@ -65,7 +65,7 @@ The ordinal punk fam & frens pixel art collections pre-configured¹ include:
 
 
 
-Bonus: For more see the [**Ordinal Punks Sandbox** »](https://github.com/ordinalpunks/odinalpunks.sandbox)
+Bonus: For more see the [**Ordinal Punks Sandbox** »](https://github.com/ordinalpunks/ordinalpunks.sandbox)
 
 
 

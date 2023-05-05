@@ -52,12 +52,12 @@ The ordinal punk fam & frens pixel art collections pre-configured¹ include:
 - [phunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordinalphunks.png) (24x24)
 - [lilphunks](https://github.com/ordbase/ordinals.sandbox/blob/master/i/lilordinalphunks.png) (24x24)
 - [doggies](https://github.com/ordbase/ordinals.sandbox/blob/master/i/ordoggies.png) (32x32)
-- [greenbacks](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/dollar/i/dollars.png) (54x28)
-- [orangepilled](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/orangepill/i/orangepilled_ii.png) (24x24)
-- [goldcoins](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/coins/i/goldcoins.png) (32x32)
-- [sketches](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches.png)  (49x49)
-- [neons](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons.png) (49x49)
-- [polaroids](https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/polaroid/i/polaroids.png)  (34x38)
+- [greenbacks](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/dollar/i/dollars.png) (54x28)
+- [orangepilled](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/orangepill/i/orangepilled_ii.png) (24x24)
+- [goldcoins](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/coins/i/goldcoins.png) (32x32)
+- [sketches](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/sketch/i/sketches.png)  (49x49)
+- [neons](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/neon/i/neons.png) (49x49)
+- [polaroids](https://github.com/ordinalpunks/ordinalpunks.sandbox/blob/master/polaroid/i/polaroids.png)  (34x38)
 - And more
 
 
@@ -65,7 +65,7 @@ The ordinal punk fam & frens pixel art collections pre-configured¹ include:
 
 
 
-Bonus: For more see the [**Ordinals Sandbox (& Cache)** »](https://github.com/ordbase/ordinals.sandbox)
+Bonus: For more see the [**Ordinal Punks Sandbox** »](https://github.com/ordinalpunks/odinalpunks.sandbox)
 
 
 
@@ -93,6 +93,15 @@ or `/goldcoins/0`, `/goldcoins/1`, `/goldcoins/2`,
 ![](i/goldcoins-000000.png)
 ![](i/goldcoins-000001.png)
 ![](i/goldcoins-000002.png)
+
+
+
+Note / Tip:   For now all collections here start ids / numbers with zero (0) NOT one (1).
+If you are using official punk ids / numbers - starting with one (1) -
+than subtract one¹ from the id e.g. use 65 for 66, 66 for 67, ..., 0 for 1, 99 for 100 and so on.
+
+¹: Note: Only if the collection here is listed with a count of a hundred (100) and NOT a hundred and one (101).
+
 
 
 

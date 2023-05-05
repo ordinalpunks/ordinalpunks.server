@@ -17,8 +17,8 @@ $ ordpunkd
 This will start-up a (web) server (listening on port 8080). To test open up `http://localhost:8080` in your browser (to get the index web page listing all collections).
 
 
-## Build & Run From Source
-
+<details>
+<summary markdown="1">Build & Run From Source</summary>
 
 Use / issue / type  (in the `/ordinalpunks.server` directory):
 
@@ -34,6 +34,9 @@ $ ordpunkd
 ```
 
 This will start-up a (web) server (listening on port 8080). To test open up `http://localhost:8080` in your browser (to get the index web page listing all collections).
+
+</details>
+
 
 
 

@@ -4,7 +4,7 @@ phunks,        24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/r
 lilphunks,     24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
 doggies,       32x32, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
 greenbacks,    54x28,  true, 100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/dollar/i/dollars.png
-gold,          24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/gold/i/golden.png
+gold,          24x24,  true, 100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/gold/i/golden.png
 punkettes,     24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/punkettes/i/punkettes.png
 men,           24x24,  ,    100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/men/i/men.png
 humans,        24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/humans/i/humans.png
@@ -18,6 +18,11 @@ bitcoin,       24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks
 dollar,        24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/bitcoin/i/dollars.png
 euro,          24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/bitcoin/i/euros.png
 pound,         24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/bitcoin/i/pounds.png
-sketches,      49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches.png
+sketches,        49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches.png
+sketches-invert, 49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches-invert.png
 neons,         49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons.png
+neons-red,      49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons-red.png
+neons-green,    49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons-green.png
+neons-blue,     49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/neon/i/neons-blue.png
+leds,           119x119,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/led/i/leds.png
 polaroids,     34x38,   ,    100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/polaroid/i/polaroids.png

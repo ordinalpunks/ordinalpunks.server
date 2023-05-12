@@ -1,5 +1,6 @@
 name,               size,  background, count, url
 punks,         24x24, ,     100,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalpunks.png
+morepunks,     24x24, ,     1000,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/1000more/i/morepunks.png
 phunks,        24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
 lilphunks,     24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
 doggies,       32x32, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png

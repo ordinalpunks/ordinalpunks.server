@@ -4,6 +4,7 @@ morepunks,     24x24, ,     1000,   https://github.com/ordinalpunks/ordinalpunks
 phunks,        24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalphunks.png
 lilphunks,     24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
 doggies,       32x32, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
+simpsons,      24x24, true, 20,    https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/simpsons/i/barts.png
 hoodiegang,    24x24, ,     69,    https://github.com/ordbase/ordinals.sandbox/raw/master/i/hoodiegang-ii.png
 hoodies,       24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/hoodies/i/hoodies.png
 greenbacks,    54x28,  true, 100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/dollar/i/dollars.png
@@ -45,3 +46,4 @@ neons-blue,     49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks
 leds,           119x119,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/led/i/leds.png
 polaroids,     34x38,,     100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/polaroid/i/polaroids.png
 hollywood,     28x34,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/hollywood/i/hollywood.png
+inverted,     24x24,,    100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/invert/i/inverted.png

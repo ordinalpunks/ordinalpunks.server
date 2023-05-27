@@ -47,6 +47,7 @@ neons-blue,     49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks
 leds,           119x119,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/led/i/leds.png
 polaroids,     34x38,,     100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/polaroid/i/polaroids.png
 hollywood,     28x34,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/hollywood/i/hollywood.png
+sepias,        34x33,,     100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sepia/i/sepias.png
 inverted,     24x24,,    100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/invert/i/inverted.png
 cursed,         24x24, true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/cursed/i/cursed.png
 cursed-invert,  24x24, true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/cursed/i/cursed_invert.png

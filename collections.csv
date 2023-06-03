@@ -5,6 +5,7 @@ phunks,        24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/r
 lilphunks,     24x24, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/lilordinalphunks.png
 doggies,       32x32, ,     101,   https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordoggies.png
 pepes,         24x24, ,     20,    https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/pepes/i/pepes.png
+pridepepes,    24x24, true, 20,    https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/pepes/i/pridepepes.png
 simpsons,      24x24, true, 20,    https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/simpsons/i/barts.png
 hoodiegang,    24x24, ,     69,    https://github.com/ordbase/ordinals.sandbox/raw/master/i/hoodiegang-ii.png
 hoodies,       24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/hoodies/i/hoodies.png
@@ -20,6 +21,7 @@ lasereyed,     24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.
 saudis,       24x24,  true, 100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/saudis/i/saudis.png
 fastfoodies,    24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/fastfood/i/fastfoodies.png
 fastfoodies-ii, 24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/fastfood/i/fastfoodies_ii.png
+pridepunk,       24x24, true,  100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/pride/i/pridepunks.png
 frogonesies,    24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/onesies/i/frogs.png
 bearonesies,    24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/onesies/i/bears.png
 apes,          24x24, ,     100,   https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/apes/i/apes.png

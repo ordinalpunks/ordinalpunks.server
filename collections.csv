@@ -35,6 +35,7 @@ euro,          24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks
 pound,         24x24,  true,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/bitcoin/i/pounds.png
 orangepilled,  24x24,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/orangepill/i/orangepilled_ii.png
 orangepilled-maxi, 24x24,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/orangepill/i/orangepilled_iii.png
+ethscribed,    24x24,,  100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/ethscribes/i/ethscribes.png
 sketches,        49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches.png
 sketches-invert, 49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches-invert.png
 sketches-invert_orange,  49x49,  true, 100,  https://github.com/ordinalpunks/ordinalpunks.sandbox/raw/master/sketch/i/sketches-invert_orange.png
